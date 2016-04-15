@@ -13,14 +13,6 @@ import android.widget.TextView;
 
 import com.itheima.googleplay_18.R;
 
-/**
- * 创建者     伍碧林
- * 创建时间   2016/1/29 16:59
- * 描述	      下载部分的组合控件
- * 更新者     $Author: admin $
- * 更新时间   $Date: 2016-01-30 15:28:17 +0800 (星期六, 30 一月 2016) $
- * 更新描述   ${TODO}
- */
 public class ProgressView extends LinearLayout {
 
     private ImageView mIvIcon;
